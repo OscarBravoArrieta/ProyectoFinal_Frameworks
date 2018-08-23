@@ -1,0 +1,46 @@
+
+body{
+  font-family: Tahoma;
+  background-color: #ffffff;
+  margin: 0 auto;
+  display:grid;
+  flex-direction: column;
+}
+header{
+	background-color: #ffffff	;
+}
+hr {
+	height: 1px;
+    width: 60%;
+    background-color: #e53935;
+}
+
+.logo-img{
+	width: 40%;
+}
+.img-social {
+  width: 30px;
+  height: 30px;
+}
+.logo-user{
+	/*width: 100%;*/
+}
+.li-social{
+	padding-left: 1px !important;
+	margin-left: 1px !important;
+	padding-top: 70px !important;
+}
+.botones-navegacion{
+	width: 200px;
+}
+.post{
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+article, ul{
+	font-size: 14px;
+}
